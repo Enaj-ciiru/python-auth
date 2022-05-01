@@ -1,2 +1,2 @@
 # python-auth
-python authentication system
+python authentication system using LoginRadius services and Flask implementation
